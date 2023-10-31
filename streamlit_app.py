@@ -3,7 +3,7 @@ from bardapi import Bard
 
 # Set up the Bard API key
 import os
-os.environ['_BARD_API_KEY'] = "cgjOKi1kxU5GtdpgzuAEsJT1rCgYbhiw1Boip72vEaMs0KbzVEoklOo44dCT9JfpwebrYw."
+os.environ['_BARD_API_KEY'] = "cgjOKgkF5qUxhJNoy0HWGAPHON0SPO6rC60jDKfrkaLrmf7N8HT1fKBWJqywHiwfRd_qOQ."
 
 # Function to get Bard's response
 def get_bard_response(question):
